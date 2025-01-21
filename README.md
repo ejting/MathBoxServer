@@ -1,2 +1,4 @@
 # MathBoxServer
- serverside for the mathbox game
+The serverside API for the MathBox game.
+
+
